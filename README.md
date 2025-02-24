@@ -26,4 +26,16 @@ mini project
 |  |
 | ------- |
 | [0985-bag-of-tokens](https://github.com/anand51112/AlgoVision/tree/master/0985-bag-of-tokens) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anand51112/AlgoVision/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anand51112/AlgoVision/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anand51112/AlgoVision/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
