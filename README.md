@@ -17,6 +17,7 @@ mini project
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anand51112/AlgoVision/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0985-bag-of-tokens](https://github.com/anand51112/AlgoVision/tree/master/0985-bag-of-tokens) |
 ## Greedy
 |  |
@@ -38,4 +39,12 @@ mini project
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anand51112/AlgoVision/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anand51112/AlgoVision/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anand51112/AlgoVision/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
